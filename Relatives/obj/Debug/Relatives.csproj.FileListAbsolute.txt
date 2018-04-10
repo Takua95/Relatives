@@ -1,0 +1,7 @@
+C:\Users\SanPie\source\repos\Relatives\Relatives\bin\Debug\Relatives.exe.config
+C:\Users\SanPie\source\repos\Relatives\Relatives\bin\Debug\Relatives.exe
+C:\Users\SanPie\source\repos\Relatives\Relatives\bin\Debug\Relatives.pdb
+C:\Users\SanPie\source\repos\Relatives\Relatives\obj\Debug\Relatives.csprojResolveAssemblyReference.cache
+C:\Users\SanPie\source\repos\Relatives\Relatives\obj\Debug\Relatives.csproj.CoreCompileInputs.cache
+C:\Users\SanPie\source\repos\Relatives\Relatives\obj\Debug\Relatives.exe
+C:\Users\SanPie\source\repos\Relatives\Relatives\obj\Debug\Relatives.pdb
